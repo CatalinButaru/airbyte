@@ -1,0 +1,1 @@
+docker load -i airbyte.0.35.0-alpha.tar
